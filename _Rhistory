@@ -1,0 +1,512 @@
+?plot
+plot(data[,1],data[,6], type="l")
+abline(data[,1],data[,4])
+abline(data[,1],data[,4])
+?abline
+?plot
+lines(data[,1],data[,6],type="l")
+plot(data[,1],data[,6], type="l")
+lines(data[,1],data[,4],type="l")
+data[,6]
+View(data)
+View(data)
+abortion=as.numeric(data[,6])
+abortion
+abortion=numeric(data[,6])
+?as.numeric
+as.numeric(data[,6])
+is.numeric(data[,6])
+as.numeric(gsub(",", "", data[,6]))
+abortion=as.numeric(gsub(",", "", data[,6]))
+cancerscreening=as.numeric(gsub(",", "", data[,4]))
+plot(data[,1],abortion, type="l")
+lines(data[,1],cancerscreening,type="l")
+lines(data[,1],cancerscreening,type="l")
+lines(data[,1],cancerscreening,type="l")
+plot(data[,1],cancerscreening,type="l")
+xrange <- range(data[,1])
+which.min(c(min(abortion),min(cancerscreening)))
+which.min(c(min(abortion),min(cancerscreening)))
+which.min(c(min(abortion),min(cancerscreening)))
+which.min(c(min(abortion),min(cancerscreening)))
+as.integer(gsub(",","",data[,4]))
+yas.integer(gsub(",","",data[,4]))
+y=as.integer(gsub(",","",data[,4]))
+abortion=as.integer(gsub(",", "", data[,6]))
+cancerscreening=as.integer(gsub(",", "", data[,4]))
+which.min(c(min(abortion),min(cancerscreening)))
+which.min(c(min(abortion),min(cancerscreening)))
+min(abortion)
+which.min(min(abortion),min(cancerscreening))
+which.min(data=c(min(abortion),min(cancerscreening)))
+which.min(data1=c(min(abortion),min(cancerscreening)))
+data1=c(min(abortion,min(cancerscreening)))
+data1
+data1=c(min(abortion),min(cancerscreening)))
+data1=c(min(abortion),min(cancerscreening))
+data2=c(max(abortion),max(cancerscreening))
+data1=which.min(data1)
+data1
+data1=c(min(abortion),min(cancerscreening))
+data1=data1(which.min(data1))
+data1=data1[(]which.min(data1)]
+data1=data1[which.min(data1)]
+data1=c(min(abortion),min(cancerscreening))
+data1=data1[which.min(data1)]
+data2=c(max(abortion),max(cancerscreening))
+data2=data2[which.max(data2)]
+data1=c(min(abortion),min(cancerscreening))
+data1=data1[which.min(data1)]
+data2=c(max(abortion),max(cancerscreening))
+data2=data2[which.max(data2)]
+yrange <- c(data1.data2)
+yrange <- c(data1,data2)
+plot(xrange, yrange, type="n", xlab="Years",
+ylab=" " )
+lines(data[,1],abortion, type="l")
+lines(data[,1],cancerscreening,type="l")
+lines(data[,1],abortion, type="l", color='red')
+lines(data[,1],abortion, type="l", col='red')
+lines(data[,1],abortion, type="l", col="red")
+?lines
+lines(data[,1],abortion, type="l", col=1)
+lines(data[,1],abortion, type="l", col=rainbow[1])
+rainbow(2)
+lines(data[,1],abortion, type="l", col=rainbow(1))
+lines(data[,1],cancerscreening,type="l",col=rainbow(2))
+lines(data[,1],cancerscreening,type="l",col=rainbow(3))
+plot(xrange, yrange, type="n", xlab="Years", ylab=" " )
+lines(data[,1],abortion, type="l", col=rainbow(1))
+lines(data[,1],cancerscreening,type="l",col=rainbow(3))
+lines(data[,1],cancerscreening,type="l",col='blue')
+lines(data[,1],abortion, type="l", col='red')
+?legend
+legend("top","c("abortion","cancer prevention"),col=c('red','blue'))
+legend("top","c("abortion","cancer prevention")",col=c('red','blue'))
+legend("top",col=c('red','blue'))
+legend("top",c("abortion","cancer prevention"),col=c('red','blue'))
+legend("topright",c("abortion","cancer prevention"),col=c('red','blue'))
+plot(xrange, yrange, type="n", xlab="Years", ylab=" " )
+lines(data[,1],abortion, type="l", col='red')
+lines(data[,1],cancerscreening,type="l",col='blue')
+legend("topright",c("abortion","cancer prevention"),col=c('red','blue'))
+legend("topright",c("abortion","cancer prevention"),type=c("l","l"),col=c('red','blue'))
+legend("topright",c("abortion","cancer prevention"),lty=c(1,1),col=c('red','blue'))
+lines(data[,1],abortion, type="b", col='red')
+qqplot(xrange, yrange, type="n", xlab="Years", ylab=" " )
+qqnorm(xrange, yrange, type="n", xlab="Years", ylab=" " )
+qqplot(xrange, yrange, type="n", xlab="Years", ylab=" " )
+lines(data[,1],abortion, type="b", col='red')
+lines(data[,1],cancerscreening,type="l",col='blue')
+??qqplot
+?qqplot
+lwd = par("lwd"), equilogs = TRUE)
+grid(nx = NULL, ny = nx, col = "lightgray", lty = "dotted",
+lwd = par("lwd"), equilogs = TRUE)
+grid(nx =data1, ny = nx, col = "lightgray", lty = "dotted",
+lwd = par("lwd"), equilogs = TRUE)
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",
+lwd = par("lwd"), equilogs = TRUE)
+qqplot(xrange, yrange, type="n", xlab="Years", ylab=" " )
+qqplot(xrange, yrange, type="n", xlab="Years", ylab=" " )
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",lwd = par("lwd"), equilogs = TRUE)
+qqplot(xrange, yrange/100000, type="n", xlab="Years", ylab=" " )
+qqplot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" " )
+qqplot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" In millions" )
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",lwd = par("lwd"), equilogs = TRUE)
+lines(data[,1],abortion, type="b", col='red')
+lines(data[,1],cancerscreening,type="l",col='blue')
+qqline(data[,1],abortion, type="b", col='red')
+lines(data[,1],abortion, type="b", col='red')
+lines(data[,1],abortion, type="b", col='red')
+qqplot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" In millions" )
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",lwd = par("lwd"), equilogs = TRUE)
+lines(data[,1],abortion, type="b", col='red')
+lines(data[,1],cancerscreening,type="l",col='blue')
+legend("topright",c("abortion","cancer prevention"),lty=c(1,1),col=c('red','blue'))
+plot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" In millions" )
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",lwd = par("lwd"), equilogs = TRUE)
+lines(data[,1],abortion, type="b", col='red')
+lines(data[,1],cancerscreening,type="l",col='blue')
+plot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" In millions" )
+lines(data[,1],abortion, type="b", col='red')
+lines(data[,1],cancerscreening,type="l",col='blue')
+legend("topright",c("abortion","cancer prevention"),lty=c(1,1),col=c('red','blue'))
+plot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" In millions" )
+lines(data[,1],abortion/1000000, type="b", col='red')
+lines(data[,1],cancerscreening/1000000,type="l",col='blue')
+lines(data[,1],cancerscreening/1000000,type="b",col='blue')
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",lwd = par("lwd"), equilogs = TRUE)
+plot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" In millions" )
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",lwd = par("lwd"), equilogs = TRUE)
+lines(data[,1],abortion/1000000, type="b", col='red')
+lines(data[,1],cancerscreening/1000000,type="b",col='blue')
+legend("topright",c("abortion","cancer prevention"),lty=c(2,2),col=c('red','blue'))
+legend("topright",c("abortion","cancer prevention"),lty=c(1,1),col=c('red','blue'))
+legend("topright",c("abortion","cancer prevention"),pch=plotchar,lty=c(1,1),col=c('red','blue'))
+legend("topright",c("abortion","cancer prevention"),lty=c(1,1),col=c('red','blue'))
+legend("topright",c("abortion","cancer prevention"),cex=0.8,lty=c(1,1),col=c('red','blue'))
+plot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" In millions" )
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",lwd = par("lwd"), equilogs = TRUE)
+lines(data[,1],abortion/1000000, type="b", col='red')
+lines(data[,1],cancerscreening/1000000,type="b",col='blue')
+legend("topright",c("abortion","cancer prevention"),cex=0.8,lty=c(1,1),col=c('red','blue'))
+lines(data[,1],abortion/1000000, type="b",lty='1' col='red')
+lines(data[,1],abortion/1000000, type="b",lty=1 col='red')
+lines(data[,1],abortion/1000000, type="b",lty=1, col='red')
+plot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" In millions" )
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",lwd = par("lwd"), equilogs = TRUE)
+lines(data[,1],abortion/1000000, type="b",lty=1, col='red')
+lines(data[,1],abortion/1000000, type="b",lty=2, col='red')
+lines(data[,1],abortion/1000000, type="b", col='red')
+lines(data[,1],cancerscreening/1000000,type="b",col='blue')
+legend("topright",c("abortion","cancer prevention"),cex=0.8,lty=c(1,1),col=c('red','blue'))
+title("Planned Parenthood services")
+remove(list=ls())
+data=read.csv('C://Users//jayan//Downloads//Planned Parenthood Dataset.csv')
+colnames(data)
+abortion=as.integer(gsub(",", "", data[,6]))
+cancerscreening=as.integer(gsub(",", "", data[,4]))
+data1=c(min(abortion),min(cancerscreening))
+data1=data1[which.min(data1)]
+data2=c(max(abortion),max(cancerscreening))
+data2=data2[which.max(data2)]
+# get the range for the x and y axis
+xrange <- range(data[,1])
+yrange <- c(data1,data2)
+plot(xrange, yrange/1000000, type="n", xlab="Years", ylab=" In millions" )
+grid(nx = NULL, ny = NULL, col = "lightgray", lty = "dotted",lwd = par("lwd"), equilogs = TRUE)
+lines(data[,1],abortion/1000000, type="b", col='red')
+lines(data[,1],cancerscreening/1000000,type="b",col='blue')
+legend("topright",c("abortion","cancer prevention"),cex=0.8,lty=c(1,1),col=c('red','blue'))
+title("Planned Parenthood services")
+getwd()
+d=read.table("OTIS TB Data 1993-2014.txt")
+d=read.table("OTIS TB Data 1993-2014.txt")
+d=read.table("OTIS TB Data 1993-2014.txt.txt")
+d=read.table("OTIS TB Data 1993-2014.txt.txt")
+d=read.table("OTIS TB Data 1993-2014.txt")
+d=read.table("OTIS TB Data 1993-2014.txt")
+d=read.csv("OTIS TB Data 1993-2014.csv")
+d=read.csv("OTIS TB Data 1993-2014.csv")
+View(d)
+d=d[,1]
+d=read.csv("OTIS TB Data 1993-2014.csv")
+d[,-1]
+k=d[,-1]
+k
+View(k)
+j=k[,-2,-4]
+View(j)
+k=j[,-3]
+k
+View(k)
+k
+View(k)
+plot(state,cases,k)
+plot(state,cases,"k")
+plot()
+?plot
+plot(state,cases)
+plot
+plot(cars)
+plot(k)
+data=read.csv("foreign born.csv",header = TRUE)
+setwd("~/GMU/1st sem/AIT580/Project/time series")
+data=read.csv("foreign born.csv",header = TRUE)
+View(data)
+View(data)
+data=data[22:1,]
+model<-ts(data[1:17],start = 1993 ,frequency = 1)
+model<-ts(data[1:17,],start = 1993 ,frequency = 1)
+model
+forecast(model)
+library(forecast)
+forecast(model)
+plot(forecast(model))
+model<-ts(data[1:17,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model))
+model<-ts(data[,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model))
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model))
+data=read.csv("US-Born.csv",header = TRUE)
+data=data[22:1,]
+data=read.csv("US-Born.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model))
+?plot
+data=read.csv("foreign born.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model), main="Foreign Born")
+data=read.csv("US-Born.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),"US-Born")
+plot(forecast(model),main = "US-Born")
+data=read.csv("foreign born.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model), main="Foreign Born")
+data=read.csv("US-Born.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+forecast(model)
+plot(forecast(model),main = "US-Born")
+data=read.csv("HIV_Positive.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+forecast(model)
+plot(forecast(model),main = "US-Born")
+plot(forecast(model),main = "HIV_Positive")
+data=read.csv("HIV_negative.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "HIV_negative")
+forecast(model)
+data=read.csv("LT1.csv",header = TRUE)
+data=read.csv("LT1year.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Less than one year in us")
+data=read.csv("1-4years.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Between 1-4 years in us")
+data=read.csv("5-14years.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Between 5-14 years in us")
+data=read.csv("GT15.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Greater than 15 years in us")
+data=read.csv("Alcohol_yes.csv",header = TRUE)
+data=read.csv("Alochol_yes.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Driniking Alcohol")
+data=read.csv("Alochol_no.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Not Driniking Alcohol")
+data=read.csv("Drug Use, Injecting_no.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Drug Use, Injecting NO")
+data=read.csv("Drug Use, Injecting_yes.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Drug Use, Injecting YES")
+data=read.csv("Drug Use,Non-injecting_yes.csv",header = TRUE)
+data=read.csv("Drug Use,Non-injecting_no.csv",header = TRUE)
+data=read.csv("Drug Use, Non-injecting_no .csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Drug Use, Non-injecting NO ")
+data=read.csv("Drug Use, Non-injecting_yes .csv",header = TRUE)
+data=read.csv("Drug Use, Non-injecting_yes.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Drug Use, Non-injecting Yes ")
+data=read.csv("Disease Site_Both.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Disease Site Both(Pulmonary and extra pulmonary) ")
+data=read.csv("Disease Site_Extrapulmonary.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Disease Site_Extrapulmonary ")
+data=read.csv("Disease Site_Pulmonary.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Disease Site Pulmonary ")
+data=read.csv("Multidrug-Resistant_no.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Not Multidrug-Resistant ")
+data=read.csv("Multidrug-Resistant_yes.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Multidrug-Resistant ")
+data=read.csv("Previous TB_no.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Not effected with TB previously ")
+data=read.csv("Previous TB_yes.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "effected with TB previously ")
+data=read.csv("sex_female.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Female")
+data=read.csv("sex_male.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "male")
+data=read.csv("Age group_0-4years.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Age group_0-4years")
+data=read.csv("Age group_5-24years.csv",header = TRUE)
+data=read.csv("Age group_5-14years.csv",header = TRUE)
+data=read.csv("Age group_5-14 years.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Age group_5-14 years")
+data=read.csv("Age group_15-24 years.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Age group_15-24 years")
+data=read.csv("Age group_25-44 years.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Age group_25-44 years")
+data=read.csv("Age group_45-64 years.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Age group_45-64 years")
+data=read.csv("Age group_65+ years.csv",header = TRUE)
+data=data[22:1,]
+#1993 to 2012
+model<-ts(data[1:20,3],start = 1993 ,frequency = 1)
+model
+library(forecast)
+forecast(model)
+plot(forecast(model),main = "Age group_65+ years")
